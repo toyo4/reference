@@ -1,0 +1,15 @@
+# OSの管理ファイル
+.DS_Store
+._*
+
+# 編集用の一時ファイル
+*.swp
+*.swo
+*~
+
+# ローカルの環境設定（再利用用のサンプルは除外しない）
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
