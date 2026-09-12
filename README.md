@@ -4,4 +4,4 @@
 
 | フォルダ | 概要 |
 | --- | --- |
-| [ai-assistant-workspace](ai-assistant-workspace/) | AI秘書のためのワークスペース運営方針。情報整備やタスク・スキル管理の原則をまとめたAGENTS.mdを収録。 |
+| [ai-assistant-workspace](ai-assistant-workspace/) | AI秘書のためのワークスペース運営方針。情報整備や支援・業務の進め方をまとめたAGENTS.mdを収録。 |
