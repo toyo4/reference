@@ -10,3 +10,5 @@
 各フォルダには、同名リポジトリの作業方針を収録しています。`devoffice`にはスキルも収録しています。`abby`は`backoffice`へ、`koala`は`devoffice`へ移管され、旧リポジトリは削除済みです。`backoffice`の役割は、汎用秘書から上記のバックオフィス業務に特化しています。
 
 このリポジトリ自体の運営ルールは、ルートの[AGENTS.md](AGENTS.md)に記載しています。
+
+スーパーコンペの背景は[設計理由と検証の限界](devoffice/.agents/skills/super-competition/references/design-rationale.md)を参照してください。同文書の原資料のコミットとパスは、同期元の`devoffice`リポジトリの履歴を指します。
